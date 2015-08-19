@@ -1,6 +1,8 @@
 # contiguous_chain
 Python Test
 
+Required: Python 2.7
+
 
 Description:
 
